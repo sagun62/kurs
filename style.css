@@ -3,6 +3,9 @@
 	margin: 0;
 	padding: 0;
 }
+.kupa {
+	width: 400px;
+}
 
 body {
 	height: 100vh;
